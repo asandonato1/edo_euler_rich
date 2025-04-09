@@ -1,0 +1,1 @@
+esse repositório consiste em uma implementação da extrapolação de richardson para reduzir o erro na resolução numérica de uma EDO. nesse caso, foi utilizado o método de euler para resolver a EDO. a ideia surgiu durante uma aula de MAP2223. 
